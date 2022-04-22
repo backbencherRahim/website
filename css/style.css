@@ -1,9 +1,12 @@
 body{
     background-color: #B4FF9F;
 }
+
 h2, h3{
     color: #66BFBF;
 }
+
+
 hr{
     border-style: none;
     border-top-style: dotted;
@@ -11,4 +14,13 @@ hr{
     border-color: grey;
     height: 0px;
     width: 5%;
+}
+
+.emoji{
+    background-color: red;
+    border-radius: 100%;
+}
+
+.emoji:hover{
+    background-color: green;
 }
